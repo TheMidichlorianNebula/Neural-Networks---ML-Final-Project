@@ -5,3 +5,4 @@
 2026-04-07 12:46:14,834 - INFO - Data preprocessing completed
 2026-04-07 12:46:15,114 - INFO - MLP model trained successfully
 2026-04-07 12:46:15,127 - INFO - Model and scaler saved successfully
+2026-04-07 12:46:44,328 - INFO - Prediction made successfully
