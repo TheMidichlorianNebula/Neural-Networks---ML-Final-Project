@@ -1,0 +1,7 @@
+2026-04-07 12:45:35,669 - INFO - Starting neural network training script
+2026-04-07 12:45:35,671 - ERROR - Dataset file not found
+2026-04-07 12:46:14,782 - INFO - Starting neural network training script
+2026-04-07 12:46:14,820 - INFO - Dataset loaded successfully
+2026-04-07 12:46:14,834 - INFO - Data preprocessing completed
+2026-04-07 12:46:15,114 - INFO - MLP model trained successfully
+2026-04-07 12:46:15,127 - INFO - Model and scaler saved successfully
