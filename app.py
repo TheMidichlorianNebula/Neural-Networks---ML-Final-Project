@@ -20,7 +20,7 @@ MODEL_PATH = "models/mlp_model.pkl"
 SCALER_PATH = "models/scaler.pkl"
 
 # Page setup
-st.set_page_config(page_title="UCLA Admission Predictor", layout="wide")
+st.set_page_config(page_title="UCLA Admission Predictor", layout="centered")
 st.title("UCLA Admission Prediction with Neural Networks")
 
 try:
